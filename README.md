@@ -1,9 +1,5 @@
 # polygram-i18n
 
-Публичное зеркало словарей локализации клиента **Polygram**. Исходный код
-Polygram лежит в приватном репозитории, поэтому приложение не может скачивать
-словари оттуда анонимно — а из этого репозитория может:
-
 ```
 https://raw.githubusercontent.com/gigandbro/polygram-i18n/main/i18n/en.json
 https://raw.githubusercontent.com/gigandbro/polygram-i18n/main/i18n/uk.json
